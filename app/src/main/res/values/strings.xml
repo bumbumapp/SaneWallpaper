@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Sterling Wallpapers</string>
+    <string name="app_name">Sane Wallpapers</string>
     <string name="mobile_wallpapers">Mobile Wallpapers</string>
     <string name="find_out_your_need">Find out your need</string>
     <string name="get_started">Get started</string>
@@ -15,8 +15,8 @@
     <string name="watch_video">Watch a video for\npremium wallpapers</string>
 
     //ads ids
-    <string name="banner_app_id">ca-app-pub-2101785177570955~4766348587</string>
-    <string name="banner_unit_id">ca-app-pub-2101785177570955/3453266913</string>
-    <string name="inter_unit_id">ca-app-pub-2101785177570955/9882943893</string>
+    <string name="banner_app_id">ca-app-pub-2101785177570955~7870189924</string>
+    <string name="banner_unit_id">ca-app-pub-2101785177570955/3930944912</string>
+    <string name="inter_unit_id">ca-app-pub-2101785177570955/3356229841</string>
     <string name="rewarded_video_id">ca-app-pub-3940256099942544/5224354917</string>
 </resources>
